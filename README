@@ -1,0 +1,19 @@
+This is the archive for BIG DATA ANALYTICS PROGRAMMING, assignment 2. 
+
+In this archive you will find the following files:
+
+- code/LogisticRegression.java: a class stub (to be completed) for the logistic regression classifier algorithm. 
+- code/Vfdt.java: a class stub (to be completed) for the VFDT classifier algorithm. 
+- code/VfdtNode.java: a class stub (to be completed) to make a VFDT tree node for the VFDT algorithm. 
+- code/Makefile: a makefile to compile and run and test your implementation. See make testnb and make testvftd. 
+- code/Data.java: a java helper class to load datasets.
+
+- data/zoo-train.dat: a simple (small) training set.
+- data/zoo-test.dat: a simple (small) testing set. 
+- data/zoo-feature-description.dat: a brief description for each feature in the zoo dataset.
+- data/synthetic/bigdata.0.25.0.00.train & .test: a large synthetic dataset (1M examples in total).
+- data/synthetic/bigdata.0.25.0.25.train & .test: a large synthetic noisy dataset. 
+- doc/vfdt_paper.pdf: The paper Mining High-Speed Data Streams that describe the VFDT algorithm.
+
+- README: this file. 
+
